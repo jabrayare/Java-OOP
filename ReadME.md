@@ -24,7 +24,7 @@ e.g Car, Chair.
 
 ## class
 
-> A class can be defined as a blueprint from which you can create an individual class.
+> A class can be defined as a blueprint from which you can create an individual object.
 
 
 ## Implements
