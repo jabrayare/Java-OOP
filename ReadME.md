@@ -26,9 +26,6 @@ e.g Car, Chair.
 
 > A class can be defined as a blueprint from which you can create an individual class.
 
-## Inheritance
-
->
 
 ## Implements
 > This relation may hold between a class and an interface.
