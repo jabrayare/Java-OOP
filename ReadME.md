@@ -59,7 +59,7 @@ e.g Car, Chair.
 - interfaces cannot have constructors.
 - interfaces cannot have static method contracts without also providing correspoding method bodies.
 
-## Caveats to Java classes
+## Caveats About Java classes
 - constructors are not inherited.
 - Static methods are inherited.
 
