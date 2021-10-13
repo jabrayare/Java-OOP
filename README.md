@@ -72,3 +72,7 @@ e.g Book1AbstructClass, Chair.
 ## When is a method overloaded?
 > A method is overloaded when two or more methods have the same name, in which case the methods must differ in the number and/or types of their formal parameters(Which the compiler uses to differiate the methods).
 
+## Access modifiers
+> Private: The private access modifier is specified using the keyword private. The methods or data members declared as private are accessible only within the class in which they are declared. Any other class of the same package will not be able to access these members
+> Protected: The protected keyword is an access modifier used for attributes, methods and constructors, making them accessible in the same package and subclasses.
+> public: The public access modifier is specified using the keyword public. The public access modifier has the widest scope among all other access modifiers. Classes, methods, or data members that are declared as public are accessible from everywhere in the program.
