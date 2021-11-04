@@ -2,16 +2,16 @@
 
 > Object-Oriented Programming is a methodology or paradigm to design a program using classes and Objects
 
-## Main Concepts in OOP
+## Key Concepts in OOP
 
-- Object
-- class
 - Inheritance(extends)
 - Polymorphism
 - Abstraction
 - Encapsulation
 
-
+## Other concepts
+- Object
+- class
 - Override
 - Implements
 
@@ -37,6 +37,7 @@ e.g Book1AbstructClass, Chair.
           }
 
 ## Inheritance(extends)
+* It is a mechanism for defining parent-child relationships between classes. Often objects are very similar, so inheritance allows programmers to reuse common logic and at the same time introduce unique concepts into the classes.
 
 > The extends relation may hold between 
 - Two interfaces
@@ -78,3 +79,15 @@ e.g Book1AbstructClass, Chair.
 > Protected: The protected keyword is an access modifier used for attributes, methods and constructors, making them accessible in the same package and subclasses.
 
 > public: The public access modifier is specified using the keyword public. The public access modifier has the widest scope among all other access modifiers. Classes, methods, or data members that are declared as public are accessible from everywhere in the program.
+
+
+> Conclusion
+* To put it concisely, you should remember the following:
+
+- An object-oriented program consists of a set of interacting objects.
+- According to the principle of encapsulation, the internal implementation of the object is not accessible to the user.
+- An object may have characteristics: fields and methods.
+- An object is an instance of a class (type);
+- A class is a more abstract concept than an individual object; it may be considered a template or blueprint that describes the common structure of a set of similar objects.
+
+
